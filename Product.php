@@ -177,4 +177,4 @@ $('#my_select').change(function() {
 });
 </script>
 
--->
+<!-- This will tell about product description  -->
